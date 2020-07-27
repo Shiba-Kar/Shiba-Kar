@@ -30,7 +30,6 @@
 - 🔭 I’m currently working in [Aliter]([https://www.alitersolutions.com/)
 - 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate in [Covid-19](https://github.com/Shiba-Kar/covid-19_tracker).
-- 🤔 I’m looking for help with VelocityX documentation.
 - 💬 Ask me about Flutter or any tech related stuff.
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
 
