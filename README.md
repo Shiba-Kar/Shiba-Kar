@@ -11,7 +11,7 @@
 <a href="https://github.com/shiba-kar">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/@SPK787">
+<a href="https://t.me/SPK787">
   <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/_devspk_/">
@@ -27,7 +27,7 @@
 
 
 
-- 🔭 I’m currently working in [Aliter]([https://www.alitersolutions.com/)
+- 🔭 I’m currently working in [Aliter](https://www.alitersolutions.com/)
 - 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate in [Covid-19](https://github.com/Shiba-Kar/covid-19_tracker).
 - 💬 Ask me about Flutter or any tech related stuff.
