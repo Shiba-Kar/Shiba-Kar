@@ -27,7 +27,7 @@
 
 
 
-- 🔭 I’m currently working in [Aliter](https://www.alitersolutions.com/)
+- 🔭 I’m currently working in [Aliter Buisness Solutions](https://www.alitersolutions.com/)
 - 🌱 I’m currently learning Node.js.
 - 👯 I’m looking to collaborate in [Covid-19](https://github.com/Shiba-Kar/covid-19_tracker).
 - 💬 Ask me about Flutter or any tech related stuff.
