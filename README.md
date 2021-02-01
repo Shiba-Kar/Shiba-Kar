@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shiva</h1>
+<h1 align="center">Hi 👋, I'm Shiba</h1>
 <h3 align="center">A passionate Full Stack developer from India 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiba-kar&label=Profile%20views&color=0e75b6&style=flat" alt="shiba-kar" /> </p>
