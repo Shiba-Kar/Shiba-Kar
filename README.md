@@ -1,63 +1,35 @@
-## Hola, I'm [Shiba Kar](https://shibaprasadkar786.web.app) 👋
+<h1 align="center">Hi 👋, I'm Shiva</h1>
+<h3 align="center">A passionate Full Stack developer from India 👩‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiba-kar&label=Views&color=blue&style=plastic" alt="shiba-kar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiba-kar&label=Profile%20views&color=0e75b6&style=flat" alt="shiba-kar" /> </p>
 
-<a href="https://twitter.com/shibakar786">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/shivaprasadkar">
-  <img align="left" alt="Shiba's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/shiba-kar">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/SPK787">
-  <img align="left" alt="Pawan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/_devspk_/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiba-kar" alt="shiba-kar" /></a> </p>
 
-<a href="https://www.youtube.com/ThEGeEeK/">
-  <img align="left" alt="Pawan's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+- 🔭 I’m currently working on **Brands Around Us**
 
-<br/>
-<br/>
+- 🌱 I’m currently learning **Node.js || Adonis**
 
+- 👯 I’m looking to collaborate on [COVID-19 Tracker](https://github.com/Shiba-Kar/covid-19_tracker)
 
-- 🌱 I’m currently learning Node.js.
-- 👯 I’m looking to collaborate in [Covid-19](https://github.com/Shiba-Kar/covid-19_tracker).
-- 💬 Ask me about Flutter or any tech related stuff.
-- ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
+- 👨‍💻 All of my projects are available at [https://shibaprasadkar786.web.app](https://shibaprasadkar786.web.app)
 
-[![Twitter: shibakar](https://img.shields.io/twitter/follow/shibakar786?style=social)](https://twitter.com/shibakar786)
-[![Linkedin: shivaprasadkar](https://img.shields.io/badge/-shivaprasadkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivaprasadkar/)](https://www.linkedin.com/in/shivaprasadkar/)
-[![GitHub iampawan](https://img.shields.io/github/followers/shiba-kar?label=follow&style=social)](https://github.com/shiba-kar)
-[![website](https://img.shields.io/badge/PortfolioWebsite-shiba_kar-2648ff?style=flat-square&logo=google-chrome)](https://shibaprasadkar786.web.app)
+- 💬 Ask me about **Flutter || Adonis**
 
+- 📫 How to reach me **http://wa.me/message/ABSNSY37JO5PL1**
 
-**Languages and Tools:**  
+- ⚡ Fun fact **I spend almost 12 hours listening songs everyday.**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shibakar786" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shibakar786" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivaprasadkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shivaprasadkar" height="30" width="40" /></a>
+<a href="https://instagram.com/_devspk_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_devspk_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/thegeeek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="thegeeek" height="30" width="40" /></a>
+</p>
 
-<a href="https://github.com/shiba-kar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiba-kar&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/shiba-kar">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiba-kar&show_icons=true&theme=dracula&line_height=27" alt="Pawan's github stats"/>
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-<a href="https://github.com/Shiba-Kar/covid-19_tracker">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shiba-kar&repo=covid-19_tracker&theme=dark" />
-</a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiba-kar&show_icons=true&locale=en" alt="shiba-kar" /></p>
 
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiba-kar&" alt="shiba-kar" /></p>
