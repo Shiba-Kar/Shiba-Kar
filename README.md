@@ -2,12 +2,7 @@
 <h3 align="center">A passionate Full Stack developer from India 👩‍💻</h3>
 
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shiba Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiba-Kar&theme=monokai-metallian&hide_border=true"/>
- 
-
+<a href="https://quine.sh/profile/Shiba-Kar"><img src="https://stats.quine.sh/Shiba-Kar/github" alt="Shiba-Kar's GitHub stats" width="840px"></a>
 
 
 
