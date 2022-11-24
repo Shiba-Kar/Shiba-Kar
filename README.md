@@ -4,6 +4,8 @@
 
 <a href="https://quine.sh/profile/Shiba-Kar"><img src="https://stats.quine.sh/Shiba-Kar/github" alt="Shiba-Kar's GitHub stats" width="840px"></a>
 
+<a href="https://quine.sh/profile/Shiba-Kar"><img src="https://stats.quine.sh/Shiba-Kar/stack-overflow" alt="Shiba-Kar's Stack Overflow achievements" width="380px"></a>
+
 
 
 - 🔭 I’m currently working on **Brands Around Us**
