@@ -14,7 +14,6 @@
 
 - 👯 I’m looking to collaborate on [COVID-19 Tracker](https://github.com/Shiba-Kar/covid-19_tracker)
 
-- 👨‍💻 All of my projects are available at [https://shibaprasadkar786.web.app](https://shibaprasadkar786.web.app)
 
 - 💬 Ask me about **Flutter || Adonis**
 
